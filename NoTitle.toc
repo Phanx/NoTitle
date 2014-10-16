@@ -1,5 +1,5 @@
-## Interface: 50400
-## Version: 5.4.8.wowi:revision
+## Interface: 60000
+## Version: 6.0.2.wowi:revision
 
 ## Notes: Prompts to remove the randomly set title from new characters.
 ## Notes-deDE: Schlägt vor, den zufällig festgelegten Titel auf neuen Charakteren zu deaktivieren.
