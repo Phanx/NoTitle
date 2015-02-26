@@ -1,4 +1,8 @@
-### Version 6.0.2.6
+### Version 6.0.3.4
+
+* Updated for WoW 6.1
+
+### Version 6.0.2.3
 
 * Updated for WoW 6.0
 
