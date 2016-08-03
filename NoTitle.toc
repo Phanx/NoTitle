@@ -1,6 +1,7 @@
-## Interface: 60100
+## Interface: 70000
 ## Version: @project-version@
 
+## Title: No Title
 ## Notes: Prompts to remove the randomly set title from new characters.
 ## Notes-deDE: Schlägt vor, den zufällig festgelegten Titel auf neuen Charakteren zu deaktivieren.
 ## Notes-esES: Sugiere a quitar el título especificado al azar de los nuevos personajes.
@@ -8,7 +9,7 @@
 
 ## Author: Phanx
 ## X-Email: addons@phanx.net
-## X-Copyright: Copyright (c) 2014-2015 Phanx. All rights reserved.
+## X-Copyright: Copyright (c) 2014-2016 Phanx. All rights reserved.
 ## X-Website: https://github.com/Phanx/NoTitle
 
 ## SavedVariablesPerCharacter: NoTitleSVPC

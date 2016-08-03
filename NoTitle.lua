@@ -1,10 +1,10 @@
 --[[--------------------------------------------------------------------
 	NoTitle
 	Prompts to remove the randomly set title from new characters.
-	Copyright (c) 2014-2015 Phanx. All rights reserved.
-	http://www.wowinterface.com/downloads/info22746-NoTitle.html
-	http://wow.curse.com/addons/notitle/
+	Copyright (c) 2014-2016 Phanx. All rights reserved.
 	https://github.com/Phanx/NoTitle
+	https://mods.curse.com/addons/wow/no-title
+	http://www.wowinterface.com/downloads/info22746-NoTitle.html
 ----------------------------------------------------------------------]]
 
 local f = CreateFrame("Frame")
