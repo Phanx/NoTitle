@@ -4,7 +4,7 @@
 	Copyright (c) 2014-2016 Phanx. All rights reserved.
 	https://github.com/Phanx/NoTitle
 	https://mods.curse.com/addons/wow/no-title
-	http://www.wowinterface.com/downloads/info22746-NoTitle.html
+	https://www.wowinterface.com/downloads/info22746-NoTitle.html
 ----------------------------------------------------------------------]]
 
 local f = CreateFrame("Frame")
