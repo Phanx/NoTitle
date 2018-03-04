@@ -3,7 +3,7 @@
 	Prompts to remove the randomly set title from new characters.
 	Copyright (c) 2014-2016 Phanx. All rights reserved.
 	https://github.com/Phanx/NoTitle
-	https://mods.curse.com/addons/wow/no-title
+	https://www.curseforge.com/wow/addons/no-title
 	https://www.wowinterface.com/downloads/info22746-NoTitle.html
 ----------------------------------------------------------------------]]
 
